@@ -1,0 +1,5384 @@
+appletname Neo Font - Ukrainian (PC)
+appletinfo User defined font
+fontname Ukrainian
+version 1.0
+id 29047
+height 16
+
+char 0
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+ xxxx  .
+ xxxx  .
+ xxxx  .
+ xxxx  .
+       .
+       .
+       .
+       .
+       .
+
+char 1
+width 8
+height 16
+
+        .
+        .
+        .
+        .
+  xxxx  .
+ x      .
+  x     .
+  xxx   .
+ x   x  .
+ x   x  .
+ x   x  .
+ x   x  .
+  xxx   .
+        .
+        .
+        .
+
+char 2
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+   x   .
+   xx  .
+  x x  .
+  x x  .
+  x  x .
+ x   x .
+ x   x .
+ x   xx.
+xxxxxxx.
+       .
+       .
+       .
+
+char 3
+width 7
+height 16
+
+       .
+       .
+    xx .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+ xx    .
+       .
+
+char 4
+width 7
+height 16
+
+       .
+    x  .
+   x   .
+       .
+ x   x .
+ x   x .
+ xx  x .
+ x x x .
+ x  xx .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+       .
+       .
+       .
+
+char 5
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+ x    x.
+       .
+ x     .
+ x    x.
+ x    x.
+ x    x.
+ x    x.
+ x    x.
+ x    x.
+      x.
+      x.
+   xxx .
+
+char 6
+width 9
+height 16
+
+         .
+         .
+         .
+         .
+ xxxxxxx .
+ x      x.
+ x      x.
+ x      x.
+ x      x.
+ x      x.
+ x      x.
+ xxxxxxxx.
+  xxxxxxx.
+         .
+         .
+         .
+
+char 7
+width 10
+height 16
+
+          .
+          .
+          .
+          .
+ xx    x  .
+   x  x   .
+   x  x   .
+  x  xxxx .
+ x  x   x .
+ xxxx   x .
+   x   x  .
+  x     x .
+ x    xxx .
+          .
+          .
+          .
+
+char 8
+width 7
+height 16
+
+       .
+       .
+       .
+  xx   .
+  xx   .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+
+char 9
+width 12
+height 16
+
+            .
+            .
+            .
+            .
+            .
+            .
+      x   x .
+      xx  x .
+ xxxxxxxx x .
+      xx  x .
+      x   x .
+            .
+            .
+            .
+            .
+            .
+
+char 10
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+   x   .
+   x   .
+   x   .
+   x   .
+ x x x .
+  xxx  .
+   x   .
+       .
+       .
+       .
+
+char 11
+width 8
+height 16
+
+        .
+        .
+        .
+        .
+   x    .
+  xxx   .
+ xxxxx  .
+   x    .
+   x    .
+   x    .
+   x    .
+   x    .
+   x    .
+        .
+        .
+        .
+
+char 12
+width 6
+height 16
+
+      .
+      .
+      .
+      .
+      .
+   x  .
+   x  .
+   x  .
+   x  .
+   x  .
+   x  .
+ x x x.
+  xxx .
+   x  .
+ xxxxx.
+      .
+
+char 13
+width 12
+height 16
+
+            .
+            .
+            .
+         x  .
+         x  .
+         x  .
+   x     x  .
+  xx     x  .
+ xxxxxxxxx  .
+  xx        .
+   x        .
+            .
+            .
+            .
+            .
+            .
+
+char 14
+width 6
+height 16
+
+      .
+      .
+      .
+      .
+      .
+   x  .
+   x  .
+   x  .
+ xxxxx.
+   x  .
+   x  .
+ x x x.
+  xxx .
+   x  .
+   x  .
+      .
+
+char 15
+width 6
+height 16
+
+      .
+      .
+      .
+      .
+      .
+   x  .
+   x  .
+  xxx .
+ x x x.
+   x  .
+   x  .
+ xxxxx.
+   x  .
+   x  .
+   x  .
+   x  .
+
+char 16
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+    x  .
+    x  .
+     x .
+ xxxxx .
+    x  .
+    x  .
+       .
+       .
+       .
+
+char 17
+width 10
+height 16
+
+          .
+          .
+          .
+          .
+ xx    x  .
+  x   x   .
+  x  x    .
+  x x xxx .
+  x x   x .
+   x    x .
+  x    x  .
+  x     x .
+ x    xxx .
+          .
+          .
+          .
+
+char 18
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+xxxxxxx.
+       .
+       .
+       .
+ xxxxx .
+       .
+       .
+       .
+xxxxxxx.
+       .
+       .
+       .
+
+char 19
+width 9
+height 16
+
+         .
+         .
+         .
+         .
+         .
+         .
+  xx  x  .
+ x  x x  .
+ x   x   .
+ x   x   .
+ x   x   .
+ x  x x  .
+  xx  x  .
+         .
+         .
+         .
+
+char 20
+width 8
+height 16
+
+        .
+        .
+        .
+        .
+        .
+        .
+  xxx   .
+ x   x  .
+ x   x  .
+ x   x  .
+ x   x  .
+ x   x  .
+ xxxx   .
+ x      .
+ x      .
+        .
+
+char 21
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+    x  .
+   xxx .
+    x  .
+    x  .
+    x  .
+    x  .
+   xxx .
+    x  .
+       .
+
+char 22
+width 12
+height 16
+
+            .
+            .
+            .
+         x  .
+         x  .
+         x  .
+   x     x  .
+  xx     x  .
+ xxxxxxxxx  .
+  xx        .
+   x        .
+            .
+            .
+            .
+            .
+            .
+
+char 23
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+ xxxx  .
+ x  x  .
+ x  x  .
+ xxxx  .
+       .
+       .
+       .
+       .
+       .
+
+char 24
+width 7
+height 16
+
+       .
+       .
+       .
+     xx.
+     x .
+     x .
+     x .
+     x .
+    x  .
+xx  x  .
+ x  x  .
+  x x  .
+  x x  .
+   x   .
+   x   .
+       .
+
+char 25
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+    x  .
+   x   .
+  x    .
+ x     .
+  x    .
+   x   .
+    x  .
+       .
+ xxxxx .
+       .
+       .
+       .
+
+char 26
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+  x    .
+   x   .
+    x  .
+     x .
+    x  .
+   x   .
+  x    .
+       .
+ xxxxx .
+       .
+       .
+       .
+
+char 27
+width 8
+height 16
+
+        .
+        .
+        .
+        .
+  xxx   .
+ x   x  .
+ x   x  .
+ x   x  .
+ xxxxx  .
+ x   x  .
+ x   x  .
+ x   x  .
+  xxx   .
+        .
+        .
+        .
+
+char 28
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+ xx xx .
+x  x  x.
+x  x  x.
+ xx xx .
+       .
+       .
+       .
+       .
+
+char 29
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+  xxx  .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+  x x  .
+  x x  .
+ xx xx .
+       .
+       .
+       .
+
+char 30
+width 8
+height 16
+
+        .
+        .
+        .
+        .
+  xx    .
+ x  x   .
+ x  x   .
+ x  x   .
+ x xx   .
+ x   x  .
+ x   x  .
+ x   x  .
+ xxxx   .
+ x      .
+ x      .
+        .
+
+char 31
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+ xxxxx .
+ xx    .
+  x    .
+   x   .
+   x   .
+  xx   .
+  x    .
+ x     .
+ xxxxxx.
+       .
+       .
+       .
+
+char 32
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+
+char 33
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+       .
+   x   .
+   x   .
+       .
+       .
+       .
+
+char 34
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+  xxxx .
+ xx    .
+ x     .
+ x     .
+ xxxx  .
+ x     .
+ x     .
+ xx    .
+  xxxx .
+       .
+       .
+       .
+
+char 35
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+ x  x  .
+ x  x  .
+ xx xxx.
+ xx xxx.
+ x xx  .
+ x xxxx.
+ x  x  .
+ x  x  .
+ x  x  .
+       .
+       .
+       .
+
+char 36
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+  xx   .
+  xx   .
+       .
+       .
+  xx   .
+  xx   .
+   x   .
+  x    .
+       .
+
+char 37
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+ x   x .
+x x  x .
+x x x  .
+ x  x  .
+   x   .
+  x  x .
+  x x x.
+ x  x x.
+ x   x .
+       .
+       .
+       .
+
+char 38
+width 7
+height 16
+
+       .
+       .
+       .
+  xxx  .
+ x   x .
+     x .
+    x  .
+   x   .
+   x   .
+       .
+   x   .
+   x   .
+       .
+       .
+       .
+       .
+
+char 39
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+  xxxx .
+ x     .
+ x     .
+ xxxx  .
+ x     .
+  xxxx .
+       .
+       .
+       .
+
+char 40
+width 7
+height 16
+
+       .
+       .
+       .
+    x  .
+   x   .
+   x   .
+  x    .
+  x    .
+  x    .
+  x    .
+  x    .
+   x   .
+   x   .
+    x  .
+       .
+       .
+
+char 41
+width 7
+height 16
+
+       .
+       .
+       .
+  x    .
+   x   .
+   x   .
+    x  .
+    x  .
+    x  .
+    x  .
+    x  .
+   x   .
+   x   .
+  x    .
+       .
+       .
+
+char 42
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+   x   .
+ x x x .
+  xxx  .
+  xxx  .
+ x x x .
+   x   .
+       .
+       .
+       .
+       .
+       .
+       .
+
+char 43
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+   x   .
+   x   .
+ xxxxx .
+   x   .
+   x   .
+       .
+       .
+       .
+       .
+       .
+
+char 44
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+ xxxx  .
+ x     .
+ xxxx  .
+ x  x  .
+ x xx  .
+ xxx   .
+       .
+       .
+       .
+
+char 45
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+ xxxxx .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+
+char 46
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+ x xxx .
+ x x x .
+ x x x .
+ xxx x .
+ x x x .
+ x xxx .
+       .
+       .
+       .
+
+char 47
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+  xx   .
+  xx   .
+       .
+       .
+       .
+
+char 48
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+  xxx  .
+ x   x .
+ x   x .
+ x  xx .
+ x x x .
+ xx  x .
+ x   x .
+ x   x .
+  xxx  .
+       .
+       .
+       .
+
+char 49
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+   x   .
+  xx   .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+  xxx  .
+       .
+       .
+       .
+
+char 50
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+  xxx  .
+ x   x .
+     x .
+     x .
+    x  .
+   x   .
+  x    .
+ x     .
+ xxxxx .
+       .
+       .
+       .
+
+char 51
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+  xxx  .
+ x   x .
+     x .
+   xx  .
+     x .
+     x .
+     x .
+ x   x .
+  xxx  .
+       .
+       .
+       .
+
+char 52
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+    x  .
+   xx  .
+  x x  .
+ x  x  .
+ xxxxxx.
+    x  .
+    x  .
+    x  .
+    x  .
+       .
+       .
+       .
+
+char 53
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+ xxxxx .
+ x     .
+ x     .
+ xxxx  .
+     x .
+     x .
+     x .
+ x   x .
+  xxx  .
+       .
+       .
+       .
+
+char 54
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+   xx  .
+  x    .
+ x     .
+ xxxx  .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+  xxx  .
+       .
+       .
+       .
+
+char 55
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+ xxxxx .
+     x .
+     x .
+    x  .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+       .
+       .
+       .
+
+char 56
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+  xxx  .
+ x   x .
+ x   x .
+  xxx  .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+  xxx  .
+       .
+       .
+       .
+
+char 57
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+  xxx  .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+  xxxx .
+     x .
+    x  .
+  xx   .
+       .
+       .
+       .
+
+char 58
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+ x x x .
+ x x x .
+  xxx  .
+   x   .
+   x   .
+  xxx  .
+  xxx  .
+ x x x .
+ x x x .
+       .
+       .
+       .
+
+char 59
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+ x x x .
+  xxx  .
+   x   .
+   x   .
+  xxx  .
+ x x x .
+       .
+       .
+       .
+
+char 60
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+ xxxxx .
+ x     .
+ x     .
+ x     .
+ xxxxx .
+ xx  x .
+ x   x .
+ x  xx .
+ xxxx  .
+       .
+       .
+       .
+
+char 61
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+ xxxxx .
+       .
+ xxxxx .
+       .
+       .
+       .
+       .
+       .
+       .
+
+char 62
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+ x xxx .
+ x x x .
+ x x x .
+ x x x .
+ xxx x .
+ x x x .
+ x x x .
+ x x x .
+ x xxx .
+       .
+       .
+       .
+
+char 63
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+  xx   .
+  xx   .
+   x   .
+  x    .
+       .
+
+char 64
+width 7
+height 16
+
+       .
+       .
+       .
+ x x   .
+ x x   .
+ x x   .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+
+char 65
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+ xxxxx .
+xx x xx.
+x  x  x.
+xx x xx.
+ xxxxx .
+   x   .
+   x   .
+   x   .
+   x   .
+       .
+       .
+       .
+
+char 66
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+ x   x .
+ x   x .
+ x  xx .
+ x xxx .
+ xxx x .
+ xx  x .
+ x   x .
+ x   x .
+ x   x .
+       .
+       .
+       .
+
+char 67
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+  xxx  .
+ x   x .
+ x   x .
+ x     .
+ x     .
+ x     .
+ x     .
+ x   x .
+  xxx  .
+       .
+       .
+       .
+
+char 68
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+ xxxx  .
+ x   x .
+ x   x .
+ xxxx  .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ xxxx  .
+       .
+       .
+       .
+
+char 69
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+  xxxx .
+     x .
+     x .
+     x .
+ xxxx  .
+       .
+       .
+       .
+
+char 70
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+  xxx  .
+ x   x .
+ x   x .
+ x   x .
+ xxxxx .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+       .
+       .
+       .
+
+char 71
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+ xxxxx .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+       .
+       .
+       .
+
+char 72
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+ xxxx  .
+ x   x .
+ x   x .
+ x   x .
+ xxxx  .
+ x     .
+ x     .
+ x     .
+ x     .
+       .
+       .
+       .
+
+char 73
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x x x .
+ x x x .
+ x x x .
+ x x x .
+ xxxxx .
+       .
+       .
+       .
+
+char 74
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+  xxx  .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+  xxx  .
+       .
+       .
+       .
+
+char 75
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+  xxxx .
+  x  x .
+  x  x .
+  x  x .
+  x  x .
+  x  x .
+  x  x .
+  x  x .
+ x   x .
+       .
+       .
+       .
+
+char 76
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+  xxx  .
+  x x  .
+  x x  .
+  x x  .
+  x x  .
+  x x  .
+  x x  .
+ xxxxx .
+ x   x .
+       .
+       .
+       .
+
+char 77
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+ x     .
+ x     .
+ x     .
+ x     .
+ x     .
+ xxxx  .
+ x   x .
+ x   x .
+ xxxx  .
+       .
+       .
+       .
+
+char 78
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+ xxxxx .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+       .
+       .
+       .
+
+char 79
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x x x .
+ x x x .
+ x x x .
+ x x x .
+ xxxxxx.
+      x.
+      x.
+       .
+
+char 80
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+ xxxx  .
+     x .
+     x .
+     x .
+  xxx  .
+     x .
+     x .
+     x .
+ xxxx  .
+       .
+       .
+       .
+
+char 81
+width 7
+height 16
+
+       .
+       .
+  xxx  .
+       .
+ x   x .
+ x   x .
+ x  xx .
+ x xxx .
+ xxx x .
+ xx  x .
+ x   x .
+ x   x .
+ x   x .
+       .
+       .
+       .
+
+char 82
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+ x   x .
+ x  x  .
+ x x   .
+ xx    .
+ x     .
+ xx    .
+ x x   .
+ x  x  .
+ x   x .
+       .
+       .
+       .
+
+char 83
+width 7
+height 16
+
+
+       .
+       .
+   x   .
+       .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+       .
+       .
+       .
+
+char 84
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+ xxxxx .
+ x     .
+ x     .
+ x     .
+ xxxx  .
+ x     .
+ x     .
+ x     .
+ xxxxx .
+       .
+       .
+       .
+
+char 85
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+ xxxxx .
+ x     .
+ x     .
+ x     .
+ x     .
+ x     .
+ x     .
+ x     .
+ x     .
+       .
+       .
+       .
+
+char 86
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+ x   x .
+ x   x .
+ xxxxx .
+ x x x .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+       .
+       .
+       .
+
+char 87
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+ x  x  .
+ x  x  .
+ x  x  .
+ x  x  .
+ x  x  .
+ x  x  .
+ x  x  .
+ x  x  .
+ xxxxx .
+     x .
+     x .
+       .
+
+char 88
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ xxxxx .
+     x .
+     x .
+     x .
+     x .
+       .
+       .
+       .
+
+char 89
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ xxxxx .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+       .
+       .
+       .
+
+char 90
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+  xxxx .
+ x   x .
+ x   x .
+ x   x .
+  xxxx .
+    xx .
+   x x .
+  x  x .
+ x   x .
+       .
+       .
+       .
+
+char 91
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+ x   x .
+  x x  .
+   x   .
+   x   .
+  x x  .
+ x   x .
+       .
+       .
+       .
+
+char 92
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+     x .
+ xxxxx .
+ x     .
+ x     .
+ x     .
+ x     .
+ x     .
+       .
+       .
+       .
+
+char 93
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+  x x  .
+       .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+       .
+       .
+       .
+
+char 94
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+  xx   .
+  xx   .
+       .
+       .
+  xx   .
+  xx   .
+       .
+       .
+       .
+
+char 95
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+xxxxxxx.
+       .
+       .
+       .
+
+char 96
+width 7
+height 16
+
+       .
+       .
+    x  .
+    x  .
+    x  .
+    x  .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+
+char 97
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+ xxxxx .
+ x x x .
+ x x x .
+ x x x .
+ x x x .
+ xxxxx .
+   x   .
+   x   .
+   x   .
+
+char 98
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+ x   x .
+ x  xx .
+ x x x .
+ xx  x .
+ x   x .
+ x   x .
+       .
+       .
+       .
+
+char 99
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+  xxx  .
+ x   x .
+ x     .
+ x     .
+ x   x .
+  xxx  .
+       .
+       .
+       .
+
+char 100
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+ xxxx  .
+ x   x .
+ xxxx  .
+ x   x .
+ x   x .
+ xxxx  .
+       .
+       .
+       .
+
+char 101
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+  xxxx .
+     x .
+ x   x .
+  xxx  .
+
+char 102
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+  xxxx .
+ x   x .
+ x   x .
+ x   x .
+ x  xx .
+  xx x .
+       .
+       .
+       .
+
+char 103
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+ xxxxx .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+       .
+       .
+       .
+
+char 104
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+ xxxx  .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ xxxx  .
+ x     .
+ x     .
+       .
+
+char 105
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+ x x x .
+ x x x .
+ x x x .
+ x x x .
+ x x x .
+ xxxxx .
+       .
+       .
+       .
+
+char 106
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+  xxx  .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+  xxx  .
+       .
+       .
+       .
+
+char 107
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+   xxx .
+  x  x .
+  x  x .
+  x  x .
+  x  x .
+ xx  x .
+       .
+       .
+       .
+
+char 108
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+  xxx  .
+  x x  .
+  x x  .
+  x x  .
+ xxxxx .
+ x   x .
+       .
+       .
+       .
+
+char 109
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+ x     .
+ x     .
+ xxxxx .
+ x   x .
+ x   x .
+ xxxxx .
+       .
+       .
+       .
+
+char 110
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+ xxxxx .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+       .
+       .
+       .
+
+char 111
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+ x x x .
+ x x x .
+ x x x .
+ x x x .
+ x x x .
+ xxxxx .
+     x .
+     x .
+       .
+
+char 112
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+ xxxx  .
+     x .
+   xx  .
+     x .
+     x .
+ xxxx  .
+       .
+       .
+       .
+
+char 113
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+  xxx  .
+       .
+ x   x .
+ x  xx .
+ x x x .
+ xx  x .
+ x   x .
+ x   x .
+       .
+       .
+       .
+
+char 114
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+ x  x  .
+ x x   .
+ xx    .
+ x x   .
+ x  x  .
+ x   x .
+       .
+       .
+       .
+
+char 115
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+   x   .
+       .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+       .
+       .
+       .
+
+char 116
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+ xxxxx .
+ x     .
+ xxxx  .
+ x     .
+ x     .
+ xxxxx .
+       .
+       .
+       .
+
+char 117
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+ xxxxx .
+ x     .
+ x     .
+ x     .
+ x     .
+ x     .
+       .
+       .
+       .
+
+char 118
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+ x   x .
+ xx xx .
+ x x x .
+ x x x .
+ x x x .
+ x x x .
+       .
+       .
+       .
+
+char 119
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+ x  x  .
+ x  x  .
+ x  x  .
+ x  x  .
+ x  x  .
+ xxxxx .
+     x .
+     x .
+       .
+
+char 120
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+ x   x .
+ x   x .
+ xxxxx .
+     x .
+     x .
+     x .
+       .
+       .
+       .
+
+char 121
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+ x   x .
+ x   x .
+ xxxxx .
+ x   x .
+ x   x .
+ x   x .
+       .
+       .
+       .
+
+char 122
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+  xxxx .
+ x   x .
+ x   x .
+  xxxx .
+  x  x .
+ x   x .
+       .
+       .
+       .
+
+char 123
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+ x   x .
+ xx xx .
+  x x  .
+  xxx  .
+   x   .
+   x   .
+  xxx  .
+ xx xx .
+ x   x .
+       .
+       .
+       .
+
+char 124
+width 7
+height 16
+
+       .
+       .
+       .
+     x .
+ xxxxx .
+ x     .
+ x     .
+ x     .
+ x     .
+ x     .
+ x     .
+ x     .
+ x     .
+       .
+       .
+       .
+
+char 125
+width 7
+height 16
+
+       .
+       .
+  x x  .
+       .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+       .
+       .
+       .
+
+char 126
+width 7
+height 16
+
+       .
+       .
+    xx .
+    xx .
+     x .
+    x  .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+
+char 127
+width 12
+height 16
+
+            .
+            .
+            .
+            .
+            .
+            .
+   x        .
+  xx        .
+ xxxxxxxxx  .
+  xx        .
+   x        .
+            .
+            .
+            .
+            .
+            .
+
+char 128
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+  xxxx .
+ x    x.
+ x     .
+xxxxxx .
+ x     .
+xxxxxx .
+ x     .
+ x    x.
+  xxxx .
+       .
+       .
+       .
+
+char 129
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+ xxxxx .
+     x .
+     x .
+       .
+       .
+       .
+       .
+       .
+
+char 130
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+     x .
+   xx  .
+   x   .
+   x   .
+    x  .
+ xxxx  .
+ x  x  .
+ x  x  .
+ xxxx  .
+       .
+       .
+       .
+
+char 131
+width 7
+height 16
+
+       .
+       .
+    xx .
+   x   .
+   x   .
+   x   .
+   x   .
+  xxx  .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+ xx    .
+       .
+
+char 132
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+ xx xx .
+ xx xx .
+  x  x .
+ x  x  .
+       .
+
+char 133
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+ x x x .
+       .
+       .
+       .
+
+char 134
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+   x   .
+   x   .
+ xxxxx .
+   x   .
+   x   .
+   x   .
+   x   .
+       .
+       .
+       .
+       .
+       .
+
+char 135
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+   x   .
+   x   .
+ xxxxx .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+ xxxxx .
+   x   .
+   x   .
+       .
+
+char 136
+width 7
+height 16
+
+       .
+       .
+       .
+   x   .
+  x x  .
+ x   x .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+
+char 137
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+ x     .
+x x  x .
+x x x  .
+ x x   .
+  x    .
+ x x x .
+x x x x.
+  x x x.
+   x x .
+       .
+       .
+       .
+
+char 138
+width 7
+height 16
+
+       .
+  x x  .
+   x   .
+       .
+  xxx  .
+ x   x .
+ x     .
+ x     .
+  xxx  .
+     x .
+     x .
+ x   x .
+  xxx  .
+       .
+       .
+       .
+
+char 139
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+    x  .
+   x   .
+  x    .
+   x   .
+    x  .
+       .
+       .
+       .
+
+char 140
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+ xxxxx .
+x  x   .
+x  x   .
+x  x   .
+x  xxx .
+x  x   .
+x  x   .
+x  x   .
+ xxxxx .
+       .
+       .
+       .
+
+char 141
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+    x  .
+   xxx .
+  x x x.
+ x  x x.
+ x  x x.
+ x  x x.
+  x x x.
+   xxx .
+    x  .
+       .
+       .
+       .
+
+char 142
+width 7
+height 16
+
+       .
+  x x  .
+   x   .
+       .
+ xxxxx .
+     x .
+     x .
+    x  .
+   x   .
+  x    .
+ x     .
+ x     .
+ xxxxx .
+       .
+       .
+       .
+
+char 143
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+xxxxxxx.
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+       .
+       .
+       .
+
+char 144
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+  x    .
+   x   .
+    x  .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+
+char 145
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+    x  .
+   x   .
+   xx  .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+
+char 146
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+  xx   .
+   x   .
+  x    .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+
+char 147
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+  x  x .
+ x  x  .
+ xx xx .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+
+char 148
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+ xx xx .
+  x  x .
+ x  x  .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+
+char 149
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+  xxx  .
+ xxxxx .
+ xxxxx .
+ xxxxx .
+  xxx  .
+       .
+       .
+       .
+       .
+
+char 150
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+  xxx  .
+       .
+       .
+       .
+       .
+       .
+       .
+
+char 151
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+ xxxxx .
+       .
+       .
+       .
+       .
+       .
+       .
+
+char 152
+width 7
+height 16
+
+       .
+       .
+       .
+  xx x .
+ x xx  .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+
+char 153
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+xxxx x .
+ x xxx .
+ x xxx .
+ x x x .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+
+char 154
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+  x x  .
+   x   .
+       .
+  xxx  .
+ x   x .
+  xxx  .
+     x .
+ x   x .
+  xxx  .
+       .
+       .
+       .
+
+char 155
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+  x    .
+   x   .
+    x  .
+   x   .
+  x    .
+       .
+       .
+       .
+
+char 156
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+ xx xx .
+x  x  x.
+x  xxxx.
+x  x   .
+x  x  x.
+ xx xx .
+       .
+       .
+       .
+
+char 157
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+ xxxxx .
+  x x  .
+  x x  .
+  x x  .
+  x x  .
+  x x  .
+       .
+       .
+       .
+
+char 158
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+  x x  .
+   x   .
+       .
+ xxxxx .
+    x  .
+   x   .
+  x    .
+ x     .
+ xxxxx .
+       .
+       .
+       .
+
+char 159
+width 7
+height 16
+
+       .
+  x x  .
+       .
+       .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+  x x  .
+   x   .
+   x   .
+   x   .
+   x   .
+       .
+       .
+       .
+
+char 160
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+
+char 161
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+   x   .
+   x   .
+       .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+       .
+       .
+       .
+
+char 162
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+   x   .
+  xxx  .
+ x x x .
+ x x   .
+ x x   .
+ x x x .
+  xxx  .
+   x   .
+       .
+       .
+
+char 163
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+   xx  .
+  x    .
+  x    .
+  x    .
+ xxx   .
+  x    .
+  x  x .
+  x  x .
+ x xx  .
+       .
+       .
+       .
+
+char 164
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+ x   x .
+ xxxxx .
+ x   x .
+ x   x .
+ x   x .
+ xxxxx .
+ x   x .
+       .
+       .
+       .
+       .
+
+char 165
+width 7
+height 16
+
+       .
+       .
+       .
+ x   x .
+ x   x .
+  x x  .
+  x x  .
+   x   .
+ xxxxx .
+   x   .
+ xxxxx .
+   x   .
+   x   .
+       .
+       .
+       .
+
+char 166
+width 7
+height 16
+
+       .
+       .
+       .
+   x   .
+   x   .
+   x   .
+   x   .
+       .
+   x   .
+   x   .
+   x   .
+   x   .
+       .
+       .
+       .
+       .
+
+char 167
+width 7
+height 16
+
+       .
+       .
+       .
+  xxx  .
+ x   x .
+  x  x .
+ x x   .
+ x  x  .
+  x  x .
+   x x .
+ x  x  .
+ x   x .
+  xxx  .
+       .
+       .
+       .
+
+char 168
+width 7
+height 16
+
+       .
+       .
+       .
+ xx xx .
+ xx xx .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+
+char 169
+width 7
+height 16
+
+       .
+       .
+       .
+  xxx  .
+ x   x .
+x  x  x.
+x x x x.
+x x   x.
+x x   x.
+x x x x.
+x  x  x.
+ x   x .
+  xxx  .
+       .
+       .
+       .
+
+char 170
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+  xxxx .
+ x   x .
+ x   x .
+ x  xx .
+  xx x .
+       .
+ xxxxx .
+       .
+       .
+       .
+       .
+       .
+
+char 171
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+   x  x.
+  x  x .
+ x  x  .
+  x  x .
+   x  x.
+       .
+       .
+       .
+
+char 172
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+ xxxxx .
+     x .
+     x .
+       .
+       .
+       .
+       .
+       .
+
+char 173
+width 1
+height 16
+
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+
+char 174
+width 7
+height 16
+
+       .
+       .
+       .
+  xxx  .
+ x   x .
+x xx  x.
+x x x x.
+x x x x.
+x xx  x.
+x x x x.
+x x x x.
+ x   x .
+  xxx  .
+       .
+       .
+       .
+
+char 175
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+ xxxxx .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+
+char 176
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+  xx   .
+ x  x  .
+ x  x  .
+  xx   .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+
+char 177
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+   x   .
+   x   .
+ xxxxx .
+   x   .
+   x   .
+       .
+ xxxxx .
+       .
+       .
+       .
+
+char 178
+width 7
+height 16
+
+       .
+       .
+       .
+ xxx   .
+    x  .
+   x   .
+  x    .
+ x     .
+ xxxx  .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+
+char 179
+width 7
+height 16
+
+       .
+       .
+       .
+  x    .
+   x   .
+  x    .
+   x   .
+   x   .
+  x    .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+
+char 180
+width 7
+height 16
+
+       .
+       .
+       .
+     x .
+    x  .
+   x   .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+
+char 181
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x  xx .
+ xxx x .
+ x     .
+ x     .
+ x     .
+
+char 182
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+  xxxxx.
+ xxx x .
+ xxx x .
+ xxx x .
+ xxx x .
+  xxxx .
+   x x .
+   x x .
+   x xx.
+       .
+       .
+       .
+
+char 183
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+  xx   .
+  xx   .
+       .
+       .
+       .
+       .
+       .
+       .
+
+char 184
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+  x    .
+   x   .
+  x    .
+
+char 185
+width 7
+height 16
+
+       .
+       .
+       .
+ xxx   .
+   x   .
+   x   .
+   x   .
+   x   .
+ xxxxx .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+
+char 186
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+  xxx  .
+ x   x .
+ x   x .
+ x   x .
+  xxx  .
+       .
+ xxxxx .
+       .
+       .
+       .
+       .
+       .
+
+char 187
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+x  x   .
+ x  x  .
+  x  x .
+ x  x  .
+x  x   .
+       .
+       .
+       .
+
+char 188
+width 7
+height 16
+
+       .
+       .
+       .
+xx    x.
+ x   x .
+ x   x .
+xxx x  .
+   x   .
+   x   .
+  x xx .
+  xx x .
+ x xxxx.
+x    x .
+       .
+       .
+       .
+
+char 189
+width 7
+height 16
+
+       .
+       .
+       .
+xx    x.
+ x   x .
+ x  x  .
+xxx x  .
+   x   .
+   x   .
+  x xx .
+ x   xx.
+ x  x  .
+x   xxx.
+       .
+       .
+       .
+
+char 190
+width 7
+height 16
+
+       .
+       .
+       .
+xxx   x.
+  x  x .
+ x   x .
+xxx x  .
+   x   .
+   x   .
+  x xx .
+  xx x .
+ x xxxx.
+x    x .
+       .
+       .
+       .
+
+char 191
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+   x   .
+   x   .
+       .
+   x   .
+   x   .
+  x    .
+ x     .
+ x   x .
+  xxx  .
+       .
+       .
+       .
+
+char 192
+width 7
+height 16
+
+       .
+       .
+  x    .
+   x   .
+  xxx  .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ xxxxx .
+ x   x .
+ x   x .
+ x   x .
+       .
+       .
+       .
+
+char 193
+width 7
+height 16
+
+       .
+    x  .
+   x   .
+       .
+  xxx  .
+ x   x .
+ x   x .
+ x   x .
+ xxxxx .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+       .
+       .
+       .
+
+char 194
+width 7
+height 16
+
+       .
+   x   .
+  x x  .
+       .
+  xxx  .
+ x   x .
+ x   x .
+ x   x .
+ xxxxx .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+       .
+       .
+       .
+
+char 195
+width 7
+height 16
+
+       .
+  xx x .
+ x xx  .
+       .
+  xxx  .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ xxxxx .
+ x   x .
+ x   x .
+ x   x .
+       .
+       .
+       .
+
+char 196
+width 7
+height 16
+
+       .
+       .
+  x x  .
+       .
+  xxx  .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ xxxxx .
+ x   x .
+ x   x .
+ x   x .
+       .
+       .
+       .
+
+char 197
+width 7
+height 16
+
+       .
+   x   .
+  x x  .
+   x   .
+       .
+  xxx  .
+ x   x .
+ x   x .
+ x   x .
+ xxxxx .
+ x   x .
+ x   x .
+ x   x .
+       .
+       .
+       .
+
+char 198
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+ xxxxx .
+x  x   .
+x  x   .
+x  x   .
+xxxxxx .
+x  x   .
+x  x   .
+x  x   .
+x  xxx .
+       .
+       .
+       .
+
+char 199
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+  xxx  .
+ x   x .
+ x   x .
+ x     .
+ x     .
+ x     .
+ x     .
+ x   x .
+  xxx  .
+   x   .
+   x   .
+  x    .
+
+char 200
+width 7
+height 16
+
+       .
+  x    .
+   x   .
+       .
+ xxxxx .
+ x     .
+ x     .
+ x     .
+ xxxx  .
+ x     .
+ x     .
+ x     .
+ xxxxx .
+       .
+       .
+       .
+
+char 201
+width 7
+height 16
+
+       .
+       .
+    x  .
+   x   .
+ xxxxx .
+ x     .
+ x     .
+ x     .
+ xxxx  .
+ x     .
+ x     .
+ x     .
+ xxxxx .
+       .
+       .
+       .
+
+char 202
+width 7
+height 16
+
+       .
+   x   .
+  x x  .
+       .
+ xxxxx .
+ x     .
+ x     .
+ x     .
+ xxxx  .
+ x     .
+ x     .
+ x     .
+ xxxxx .
+       .
+       .
+       .
+
+char 203
+width 7
+height 16
+
+       .
+  x x  .
+       .
+       .
+ xxxxx .
+ x     .
+ x     .
+ x     .
+ xxxx  .
+ x     .
+ x     .
+ x     .
+ xxxxx .
+       .
+       .
+       .
+
+char 204
+width 7
+height 16
+
+       .
+  x    .
+   x   .
+       .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+       .
+       .
+       .
+
+char 205
+width 7
+height 16
+
+       .
+   x   .
+  x    .
+       .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+       .
+       .
+       .
+
+char 206
+width 7
+height 16
+
+       .
+   x   .
+  x x  .
+ x   x .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+       .
+       .
+       .
+
+char 207
+width 7
+height 16
+
+       .
+  x x  .
+       .
+       .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+       .
+       .
+       .
+
+char 208
+width 7
+height 16
+
+       .
+       .
+       .
+ xxx   .
+ x  x  .
+ x   x .
+ x   x .
+xxx  x .
+ x   x .
+ x   x .
+ x   x .
+ x  x  .
+ xxx   .
+       .
+       .
+       .
+
+char 209
+width 7
+height 16
+
+       .
+  xx x .
+ x xx  .
+       .
+ x   x .
+ x   x .
+ xx  x .
+ x x x .
+ x  xx .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+       .
+       .
+       .
+
+char 210
+width 7
+height 16
+
+       .
+  x    .
+   x   .
+       .
+  xxx  .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+  xxx  .
+       .
+       .
+       .
+
+char 211
+width 7
+height 16
+
+       .
+    x  .
+   x   .
+       .
+  xxx  .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+  xxx  .
+       .
+       .
+       .
+
+char 212
+width 7
+height 16
+
+       .
+   x   .
+  x x  .
+       .
+  xxx  .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+  xxx  .
+       .
+       .
+       .
+
+char 213
+width 7
+height 16
+
+       .
+  xx x .
+ x xx  .
+       .
+  xxx  .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+  xxx  .
+       .
+       .
+       .
+
+char 214
+width 7
+height 16
+
+       .
+       .
+  x x  .
+       .
+  xxx  .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+  xxx  .
+       .
+       .
+       .
+
+char 215
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+ x    x.
+  x  x .
+   xx  .
+   xx  .
+  x  x .
+ x    x.
+       .
+       .
+       .
+
+char 216
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+  xxx  .
+ x   xx.
+ x   x .
+ x  xx .
+ x x x .
+ xx  x .
+ x   x .
+xx   x .
+  xxx  .
+       .
+       .
+       .
+
+char 217
+width 7
+height 16
+
+       .
+  x    .
+   x   .
+       .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+  xxx  .
+       .
+       .
+       .
+
+char 218
+width 7
+height 16
+
+       .
+    x  .
+   x   .
+       .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+  xxx  .
+       .
+       .
+       .
+
+char 219
+width 7
+height 16
+
+       .
+   x   .
+  x x  .
+       .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+  xxx  .
+       .
+       .
+       .
+
+char 220
+width 7
+height 16
+
+       .
+       .
+  x x  .
+       .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+  xxx  .
+       .
+       .
+       .
+
+char 221
+width 7
+height 16
+
+       .
+    x  .
+   x   .
+       .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+  x x  .
+   x   .
+   x   .
+   x   .
+   x   .
+       .
+       .
+       .
+
+char 222
+width 7
+height 16
+
+       .
+       .
+       .
+ x     .
+ xxxx  .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x  x  .
+ xxx   .
+ x     .
+ x     .
+       .
+       .
+       .
+
+char 223
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+  xxx  .
+ x   x .
+ x   x .
+ x  x  .
+ x  x  .
+ x   x .
+ x   x .
+ x   x .
+ x xx  .
+ x     .
+ x     .
+       .
+
+char 224
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+   x   .
+    x  .
+       .
+  xxxx .
+ x   x .
+ x   x .
+ x   x .
+ x  xx .
+  xx x .
+       .
+       .
+       .
+
+char 225
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+    x  .
+   x   .
+       .
+  xxxx .
+ x   x .
+ x   x .
+ x   x .
+ x  xx .
+  xx x .
+       .
+       .
+       .
+
+char 226
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+   x   .
+  x x  .
+       .
+  xxxx .
+ x   x .
+ x   x .
+ x   x .
+ x  xx .
+  xx x .
+       .
+       .
+       .
+
+char 227
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+  xx x .
+ x xx  .
+       .
+  xxxx .
+ x   x .
+ x   x .
+ x   x .
+ x  xx .
+  xx x .
+       .
+       .
+       .
+
+char 228
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+  x x  .
+       .
+  xxxx .
+ x   x .
+ x   x .
+ x   x .
+ x  xx .
+  xx x .
+       .
+       .
+       .
+
+char 229
+width 7
+height 16
+
+       .
+       .
+       .
+   x   .
+  x x  .
+   x   .
+       .
+  xxxx .
+ x   x .
+ x   x .
+ x   x .
+ x  xx .
+  xx x .
+       .
+       .
+       .
+
+char 230
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+ xxxxx .
+x  x  x.
+x  xxxx.
+x  x   .
+x xx  x.
+ x xxx .
+       .
+       .
+       .
+
+char 231
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+       .
+  xxx  .
+ x   x .
+ x     .
+ x     .
+ x   x .
+  xxx  .
+   x   .
+   x   .
+  x    .
+
+char 232
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+  x    .
+   x   .
+       .
+  xxx  .
+ x   x .
+ xxxxx .
+ x     .
+ x   x .
+  xxx  .
+       .
+       .
+       .
+
+char 233
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+    x  .
+   x   .
+       .
+  xxx  .
+ x   x .
+ xxxxx .
+ x     .
+ x   x .
+  xxx  .
+       .
+       .
+       .
+
+char 234
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+   x   .
+  x x  .
+       .
+  xxx  .
+ x   x .
+ xxxxx .
+ x     .
+ x   x .
+  xxx  .
+       .
+       .
+       .
+
+char 235
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+  x x  .
+       .
+  xxx  .
+ x   x .
+ xxxxx .
+ x     .
+ x   x .
+  xxx  .
+       .
+       .
+       .
+
+char 236
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+  x    .
+   x   .
+       .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+       .
+       .
+       .
+
+char 237
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+    x  .
+   x   .
+       .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+       .
+       .
+       .
+
+char 238
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+   x   .
+  x x  .
+       .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+       .
+       .
+       .
+
+char 239
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+  x x  .
+       .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+   x   .
+       .
+       .
+       .
+
+char 240
+width 7
+height 16
+
+       .
+       .
+       .
+ xxx   .
+  x x  .
+    x  .
+  xxxx .
+ x  xx .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+  xxx  .
+       .
+       .
+       .
+
+char 241
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+  xx x .
+ x xx  .
+       .
+ x xx  .
+ xx  x .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+       .
+       .
+       .
+
+char 242
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+  x    .
+   x   .
+       .
+  xxx  .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+  xxx  .
+       .
+       .
+       .
+
+char 243
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+    x  .
+   x   .
+       .
+  xxx  .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+  xxx  .
+       .
+       .
+       .
+
+char 244
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+   x   .
+  x x  .
+       .
+  xxx  .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+  xxx  .
+       .
+       .
+       .
+
+char 245
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+  xx x .
+ x xx  .
+       .
+  xxx  .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+  xxx  .
+       .
+       .
+       .
+
+char 246
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+  x x  .
+       .
+  xxx  .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+  xxx  .
+       .
+       .
+       .
+
+char 247
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+   xx  .
+   xx  .
+       .
+ xxxxxx.
+       .
+   xx  .
+   xx  .
+       .
+       .
+       .
+       .
+
+char 248
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+       .
+      x.
+  xxxx .
+ x  xx .
+ x x x .
+ xx  x .
+ x   x .
+x xxx  .
+       .
+       .
+       .
+
+char 249
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+  x    .
+   x   .
+       .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x  xx .
+  xx x .
+       .
+       .
+       .
+
+char 250
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+    x  .
+   x   .
+       .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x  xx .
+  xx x .
+       .
+       .
+       .
+
+char 251
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+   x   .
+  x x  .
+       .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x  xx .
+  xx x .
+       .
+       .
+       .
+
+char 252
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+  x x  .
+       .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x  xx .
+  xx x .
+       .
+       .
+       .
+
+char 253
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+    x  .
+   x   .
+       .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+  xxxx .
+     x .
+ x   x .
+  xxx  .
+
+char 254
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+ x     .
+ x     .
+ x xx  .
+ xx  x .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ xxxx  .
+ x     .
+ x     .
+ x     .
+
+char 255
+width 7
+height 16
+
+       .
+       .
+       .
+       .
+       .
+  x x  .
+       .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+ x   x .
+  xxxx .
+     x .
+ x   x .
+  xxx  .
+
